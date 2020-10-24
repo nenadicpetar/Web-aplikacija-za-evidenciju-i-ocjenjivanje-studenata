@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+}
+
+table {
+    height: 800px;
+    width: 700px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    background-color: lightgrey;
+}
+
+td {
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 7px;
+    font-size: 19px;
+}
+
+.button {
+    height: 35px;
+    width: 135px;
+    background-color: lightcyan;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    font-size: 15px;
+}
+
+.text {
+    margin-left: 130px;
+    height: 20px;
+    border-radius: 7px;
+}
+
+.select {
+    border-radius: 5px;
+    margin-left: 130px;
+    height: 27px;
+    width: auto;
+}
+
+.shadow {
+    box-shadow: 40px 40px 40px grey;
+}

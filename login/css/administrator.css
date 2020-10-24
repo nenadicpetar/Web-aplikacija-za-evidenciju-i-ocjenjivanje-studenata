@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+
+p {
+    position: relative;
+    top: 75px;
+    font-size: 24px;
+    left: 75px;
+}
+
+table {
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    background-color: lightgreen;
+}
+
+td {
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 7px;
+    font-size: 19px;
+}
+
+.button {
+    height: 35px;
+    width: 135px;
+    background-color: lightcyan;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    font-size: 15px;
+}
+
+.text {
+    margin-left: 130px;
+    height: 20px;
+    border-radius: 7px;
+}
+
+.select {
+    border-radius: 5px;
+    height: 27px;
+    width: auto;
+}

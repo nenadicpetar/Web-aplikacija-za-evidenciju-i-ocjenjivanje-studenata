@@ -1,0 +1,40 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.table {
+    height: 780x;
+    width: 700px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    background-color: lavender;
+}
+
+.shadow {
+    box-shadow: 40px 40px 40px whitesmoke; 
+}
+
+.button2 {
+    height: 35px;
+    width: auto;
+    background-color: lightcyan;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+    font-size: 15px;
+}
+
+select {
+    border-radius: 7px;
+    height: 33px;
+    width: auto;
+}
+
+td {
+    padding-left: 30px;
+    padding-right: 10px;
+    border-radius: 7px;
+    font-size: 19px;
+}

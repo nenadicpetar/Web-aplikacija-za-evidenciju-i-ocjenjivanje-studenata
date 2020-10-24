@@ -1,0 +1,26 @@
+body {
+    background-color: lightyellow;
+}
+
+table {
+    width: 300px;
+    margin-top: 40px;
+}
+
+.text {
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 7px;
+    width: 90%;
+}
+
+.button {
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+}
+
+h3 {
+    margin-left: 10px;
+}
